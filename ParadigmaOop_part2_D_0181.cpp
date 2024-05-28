@@ -26,7 +26,7 @@ class lia : public seseorang
 {
 public:
     void pesan()
-    {
+    { 
         cout << "pesan dari lia" << endl;
     }
 };
