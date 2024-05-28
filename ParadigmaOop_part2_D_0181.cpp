@@ -28,7 +28,7 @@ public:
     void pesan()
     { 
         cout << "pesan dari lia" << endl;
-    }  
+    }   
 };
 
 
